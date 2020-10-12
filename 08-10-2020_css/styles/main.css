@@ -1,4 +1,4 @@
-button{ display: inline-block;
+.button1 { display: inline-block;
     height: 45px;
     width: 120px;
     padding: 15px 35px 35px 35px;
@@ -12,6 +12,6 @@ button{ display: inline-block;
     border-radius:5px;
     box-shadow: 0 9px #999;}
 
-    button:active{
+    button:hover{
     background:linear-gradient(#833ab4, #1dfd6f, #f6ef02);
     box-shadow:none;}
