@@ -19,102 +19,32 @@ div:after{
     border-color: tomato transparent transparent transparent;
 }
 div:nth-child(1):before {
-    content: "";
-    display: block;
-    height: 5px;
-    width: 80%;
-    margin: 0px 0px 0px 0px;
-    border-width: 10px 50px 50px 50px;
-    border-style: solid;
     border-color: transparent transparent yellow transparent;
 } 
 div:nth-child(1):after{
-    content: "";
-    display: block;
-    height: 5px;
-    width: 80%;
-    margin: 0px 0px 0px 0px;
-    border-width: 50px 50px 50px 50px;
-    border-style: solid;
     border-color: yellow transparent transparent transparent;
 }
 div:nth-child(2):before  {
-    content: "";
-    display: block;
-    height: 5px;
-    width: 80%;
-    margin: 0px 0px 0px 0px;
-    border-width: 50px 50px 50px 50px;
-    border-style: solid;
     border-color: transparent transparent blueviolet transparent;  
 } 
 div:nth-child(2):after{
-    content: "";
-    display: block;
-    height: 5px;
-    width: 80%;
-    margin: 0px 0px 0px 0px;
-    border-width: 50px 50px 50px 50px;
-    border-style: solid;
     border-color: blueviolet transparent transparent transparent;
 }
 div:nth-child(3):before  {
-    content: "";
-    display: block;
-    height: 5px;
-    width: 80%;
-    margin: 0px 0px 0px 0px;
-    border-width: 50px 50px 50px 50px;
-    border-style: solid;
     border-color: transparent transparent palevioletred transparent;  
 }
 div:nth-child(3):after{
-    content: "";
-    display: block;
-    height: 5px;
-    width: 80%;
-    margin: 0px 0px 0px 0px;
-    border-width: 50px 50px 50px 50px;
-    border-style: solid;
     border-color: palevioletred transparent transparent transparent;
 } 
 div:nth-child(4):before  {
-    content: "";
-    display: block;
-    height: 5px;
-    width: 80%;
-    margin: 0px 0px 0px 0px;
-    border-width: 50px 50px 50px 50px;
-    border-style: solid;
-    border-color: transparent transparent black transparent;    
+    border-color: transparent transparent blue transparent;    
 }
 div:nth-child(4):after{
-    content: "";
-    display: block;
-    height: 5px;
-    width: 80%;
-    margin: 0px 0px 0px 0px;
-    border-width: 50px 50px 50px 50px;
-    border-style: solid;
-    border-color: black transparent transparent transparent;
+    border-color: blue transparent transparent transparent;
 } 
 div:nth-child(5):before  {
-    content: "";
-    display: block;
-    height: 5px;
-    width: 80%;
-    margin: 0px 0px 0px 0px;
-    border-width: 50px 50px 50px 50px;
-    border-style: solid;
     border-color: transparent transparent greenyellow transparent;   
 }
 div:nth-child(5):after{
-    content: "";
-    display: block;
-    height: 5px;
-    width: 80%;
-    margin: 0px 0px 0px 0px;
-    border-width: 50px 50px 50px 50px;
-    border-style: solid;
     border-color: greenyellow transparent transparent transparent;
 } 
